@@ -21,4 +21,4 @@ Python 3.6 or above
 pandas
 scikit-learn
 ## References
-<a herf src="https://www.kaggle.com/datasets/nitishabharathi/email-spam-dataset">Kaggle Spam Dataset</a>
+<a herf="https://www.kaggle.com/datasets/nitishabharathi/email-spam-dataset">Kaggle Spam Dataset</a>
